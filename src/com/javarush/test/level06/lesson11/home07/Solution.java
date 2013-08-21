@@ -8,12 +8,14 @@ import java.util.ArrayList;
 
 public class Solution
 {
-    public static String name = null;
+    static String name;
+
 
     public static class Cat {
-
+        static String name;
     }
 
     public static class Dog {
+        static String name;
     }
 }
