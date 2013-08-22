@@ -25,6 +25,24 @@ public class Solution
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        //Напишите тут ваш код
+        int list[] = new int[5];
+        int max = list[0];
+
+        for (int i = 0; i < list.length; i++)
+        {
+            String s = reader.readLine();
+            list[i] = Integer.parseInt(s);
+        }
+
+        for (int i = 0;i < list.length; i++)
+        {
+            if (list[i]> max)
+                max = list[i];
+         }
+
+    System.out.println("Max is " + max);
+
+
+
     }
 }
