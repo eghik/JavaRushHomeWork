@@ -3,7 +3,7 @@ package com.javarush.test.level06.lesson11.bonus03;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-/* Задача по алгоритмам
+/* Задача по алгоритмам     еще не решила :(((
 Задача: Написать программу, которая вводит с клавиатуры 5 чисел и выводит их в возрастающем порядке.
 Пример ввода:
 3
@@ -30,8 +30,7 @@ public class Solution
 
         for (int i = 0; i < list.length; i++)
         {
-            String s = reader.readLine();
-            list[i] = Integer.parseInt(s);
+            list[i] = Integer.parseInt(reader.readLine());
         }
 
         for (int i = 0;i < list.length; i++)
