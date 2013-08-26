@@ -4,7 +4,7 @@
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="" />
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377516118307" ignored="false" />
+    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377520731389" ignored="false" />
     <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1376050059477" ignored="false" />
     <file path="/Cat.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1376054244372" ignored="false" />
     <file path="/hello.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1375858109552" ignored="false" />
@@ -108,15 +108,6 @@
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task03/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="40" selection-start="661" selection-end="689" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task04/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="43" selection-start="670" selection-end="701" vertical-scroll-proportion="0.0">
@@ -146,7 +137,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="77" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+            <state line="21" column="40" selection-start="588" selection-end="616" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,12 +152,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="30" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.6396552">
+            <state line="62" column="16" selection-start="1518" selection-end="1543" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#718#726#0" expanded="true" />
+                <element signature="e#715#723#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="85" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.6189655">
+              <folding>
+                <element signature="e#612#620#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task03/Solution.java" />
@@ -206,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java" />
       </list>
     </option>
   </component>
@@ -343,7 +345,7 @@
     </configuration>
     <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.test.level07.lesson09.task04.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.test.level07.lesson09.task05.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -515,8 +517,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67304623" order="7" side_tool="false" content_ui="tabs" />
@@ -532,7 +534,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67304623" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.399841" sideWeight="0.67304623" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21144675" sideWeight="0.5582137" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5247209" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -608,11 +610,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson04/task04/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="33" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_25/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="444" column="0" selection-start="16177" selection-end="16177" vertical-scroll-proportion="0.33238637">
@@ -682,20 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="77" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="0" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0">
@@ -705,9 +688,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task04/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="30" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.6396552">
+        <state line="62" column="16" selection-start="1518" selection-end="1543" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#718#726#0" expanded="true" />
+            <element signature="e#715#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task03/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task02/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="40" selection-start="588" selection-end="616" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson09/task05/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="85" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.6189655">
+          <folding>
+            <element signature="e#612#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
