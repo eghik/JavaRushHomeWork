@@ -24,22 +24,22 @@ public class Solution
 {
     public static void main(String[] args) throws Exception
     {
-       BufferedReader bis = new BufferedReader(new InputStreamReader(System.in));
+      // BufferedReader bis = new BufferedReader(new InputStreamReader(System.in));
 
         ArrayList<String> list = new ArrayList<String>();
         list.add("роза"); //0
         list.add("лира"); //1
         list.add("лоза"); //2
-        list.add("лома");
-        list.add("роза");
-        list.add("лира");
-        list.add("зола");
+        list.add("лома"); //2
+        list.add("роза"); //0
+        list.add("лира"); //1
+        list.add("зола"); //2
 
 
-        for (int i = 0; i < 3; i++)
-        {
-            list.add(bis.readLine());
-       }
+        //for (int i = 0; i < 3; i++)
+        //{
+        //    list.add(bis.readLine());
+      // }
 
         list = fix(list);
 
@@ -50,21 +50,21 @@ public class Solution
     }
 
     public static ArrayList<String> fix(ArrayList<String> list) {
-        for (int i = 0; i < list.size();  )
+        for (int i = 0; i < list.size(); i++ )
         {
             if (list.get(i).contains("p") && list.get(i).contains("л")){
-                list.set(i, list.get(i));
-            continue;}
+                continue;
+            }
 
             else if (list.get(i).contains("р")){
                 list.remove(i);
-                continue;
+
                 }
             else if (list.get(i).contains("л")){
                 list.add(i, list.get(i));
                i++;
                 }
-            i++;
+
         }
 
         return list;
