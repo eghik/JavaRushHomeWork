@@ -54,9 +54,12 @@ public class Solution
         {
 
             if (list.get(i).contains("р"))
-            list.remove(i);
+            {list.remove(i);
+                }
             else if (list.get(i).contains("p") && list.get(i).contains("л"))
-            {}
+            {
+
+            }
 
             else if (list.get(i).contains("л"))
             {

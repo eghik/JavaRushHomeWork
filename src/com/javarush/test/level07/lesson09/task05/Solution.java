@@ -14,8 +14,13 @@ public class Solution
 {
     public static void main(String[] args) throws Exception {
         //read strings and init ArrayList list here - считать строки с консоли и объявить ArrayList list тут
-
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<String>list = new ArrayList<String>();
+        for (int i = 0 ; i < 10; i++)
+        {
+            list.add(reader.readLine());
+        }
+
         ArrayList<String> result = doubleValues(list);
 
         //print result - вывести на экран result
@@ -27,16 +32,11 @@ public class Solution
 
     public static ArrayList<String> doubleValues(ArrayList<String> list) {
 
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        for (int i = 0 ; i < 10; i++)
-        {
-            list.add(reader.readLine());
-        }
-
-
-        for (int i = 0; i < list.size(); i ++)
+        for (int i = 0; i < list.size(); i++)
         {
             list.add(i, list.get(i));
+            i++;
+
         }
 
 
