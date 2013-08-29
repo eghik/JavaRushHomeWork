@@ -14,14 +14,17 @@
     <file path="/Friend.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1375957691728" ignored="false" />
     <file path="/Util.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1376045055141" ignored="false" />
     <file path="/ConsoleReader.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1376045529344" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377768388602" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377782651499" ignored="false" />
     <file path="/work1.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377769596240" ignored="false" />
     <file path="/work2.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377770071861" ignored="false" />
     <file path="/work3.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377770783098" ignored="false" />
     <file path="/work4.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377771867444" ignored="false" />
     <file path="/work5.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377774020192" ignored="false" />
     <file path="/work6.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377775342755" ignored="false" />
-    <file path="/work7.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377780034384" ignored="false" />
+    <file path="/work7.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377780570786" ignored="false" />
+    <file path="/work8.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377781395689" ignored="false" />
+    <file path="/work9.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377782544121" ignored="false" />
+    <file path="/work10.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1377783628646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,15 +100,6 @@
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="36" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home07/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="14" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
@@ -141,37 +135,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work4.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="10" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work5.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="50" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work6.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="34" selection-start="468" selection-end="474" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work7.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="work7.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="12" selection-start="477" selection-end="477" vertical-scroll-proportion="0.5275862">
+            <state line="26" column="20" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work8.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="29" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work9.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="14" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work10.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="24" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work11.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="30" selection-start="658" selection-end="658" vertical-scroll-proportion="0.35978836">
               <folding />
             </state>
           </provider>
@@ -195,10 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home02/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home03/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home04/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home07/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/bonus02/Solution.java" />
@@ -211,6 +210,10 @@
         <option value="$PROJECT_DIR$/src/otherhomework/arrays/work5.java" />
         <option value="$PROJECT_DIR$/src/otherhomework/arrays/work6.java" />
         <option value="$PROJECT_DIR$/src/otherhomework/arrays/work7.java" />
+        <option value="$PROJECT_DIR$/src/otherhomework/arrays/work8.java" />
+        <option value="$PROJECT_DIR$/src/otherhomework/arrays/work9.java" />
+        <option value="$PROJECT_DIR$/src/otherhomework/arrays/work10.java" />
+        <option value="$PROJECT_DIR$/src/otherhomework/arrays/work11.java" />
       </list>
     </option>
   </component>
@@ -249,6 +252,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -302,7 +306,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,87 +322,87 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.javarush.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.work6">
-    <configuration default="false" name="work2" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushHomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="work3" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushHomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="work4" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushHomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="work5" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushHomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.work10">
     <configuration default="false" name="work6" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work6" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushHomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="work7" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work7" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushHomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="work8" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work8" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushHomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="work9" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work9" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushHomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="work10" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="otherhomework.arrays.work10" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -428,19 +431,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -467,6 +457,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -506,19 +509,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.work2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.work3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.work4" />
-      <item index="3" class="java.lang.String" itemvalue="Application.work5" />
-      <item index="4" class="java.lang.String" itemvalue="Application.work6" />
+      <item index="0" class="java.lang.String" itemvalue="Application.work6" />
+      <item index="1" class="java.lang.String" itemvalue="Application.work7" />
+      <item index="2" class="java.lang.String" itemvalue="Application.work8" />
+      <item index="3" class="java.lang.String" itemvalue="Application.work9" />
+      <item index="4" class="java.lang.String" itemvalue="Application.work10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.work6" />
-        <item index="1" class="java.lang.String" itemvalue="Application.work5" />
-        <item index="2" class="java.lang.String" itemvalue="Application.work4" />
-        <item index="3" class="java.lang.String" itemvalue="Application.work3" />
-        <item index="4" class="java.lang.String" itemvalue="Application.work2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.work10" />
+        <item index="1" class="java.lang.String" itemvalue="Application.work9" />
+        <item index="2" class="java.lang.String" itemvalue="Application.work8" />
+        <item index="3" class="java.lang.String" itemvalue="Application.work7" />
+        <item index="4" class="java.lang.String" itemvalue="Application.work6" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -574,7 +577,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -591,7 +594,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67304623" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.399841" sideWeight="0.67304623" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19713831" sideWeight="0.5582137" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16905901" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28389156" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -667,41 +670,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home03/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="23" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home05/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="9" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="36" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home07/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/bonus02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="6" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="28" selection-start="450" selection-end="463" vertical-scroll-proportion="0.0">
@@ -711,23 +679,17 @@
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_25/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="19" selection-start="1224" selection-end="1252" vertical-scroll-proportion="0.33275864">
-          <folding />
-        </state>
+        <state line="54" column="19" selection-start="1224" selection-end="1252" vertical-scroll-proportion="0.33275864" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="402" selection-end="402" vertical-scroll-proportion="0.29310346">
-          <folding />
-        </state>
+        <state line="10" column="1" selection-start="402" selection-end="402" vertical-scroll-proportion="0.29310346" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="48" selection-start="573" selection-end="573" vertical-scroll-proportion="0.62229615">
-          <folding />
-        </state>
+        <state line="22" column="48" selection-start="573" selection-end="573" vertical-scroll-proportion="0.62229615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/bonus01/Solution.java">
@@ -739,9 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="33" selection-start="729" selection-end="729" vertical-scroll-proportion="0.51913476">
-          <folding />
-        </state>
+        <state line="29" column="33" selection-start="729" selection-end="729" vertical-scroll-proportion="0.51913476" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/bonus03/Solution.java">
@@ -753,28 +713,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="10" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="50" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="50" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="34" selection-start="468" selection-end="474" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="63" selection-start="503" selection-end="553" vertical-scroll-proportion="0.40599" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="12" selection-start="477" selection-end="477" vertical-scroll-proportion="0.5275862">
+        <state line="26" column="20" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="29" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="14" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="24" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home06/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="36" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/otherhomework/arrays/work11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="658" selection-end="658" vertical-scroll-proportion="0.35978836">
           <folding />
         </state>
       </provider>
